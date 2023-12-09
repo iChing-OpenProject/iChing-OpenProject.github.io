@@ -1,5 +1,3 @@
-# 64 卦
-
 |       | ![qian](resources/gua_qian.png) | ![dui](resources/gua_ze.png) | ![li](resources/gua_li.png) | ![zhen](resources/gua_zhen.png) | ![xun](resources/gua_xun.png) | ![kan](resources/gua_kan.png) | ![geng](resources/gua_geng.png) | ![kun](resources/gua_kun.png) |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | ![qian](resources/gua_qian.png) |   乾卦<br>乾为天<br>刚健中正   |   夬卦<br>泽天夬<br>决而能和   |   大有卦<br>火天大有<br>顺天依时   |   大壮卦<br>雷天大壮<br>壮勿妄动   |   小畜卦<br>风天小畜<br>蓄养待进   |   需卦<br>水天需<br>守正待机   |   大畜卦<br>山天大畜<br>止而不止   |   泰卦<br>地天泰<br>应时而变   |
