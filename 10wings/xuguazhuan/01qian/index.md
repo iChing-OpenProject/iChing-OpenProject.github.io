@@ -2,7 +2,7 @@
 
 | ![qian](/resources/64gua_qian.png) | ![qian](/resources/64gua_qian.png) | ![qian](/resources/64gua_qian.png) | ![kun](/resources/64gua_kun.png)    |
 |:------:|:------:|:------:|:------:|
-| [本卦](/10wings/xuguazhuan/01qian/index.md) | [互卦](/10wings/xuguazhuan/01qian/index.md) | [错卦](/10wings/xuguazhuan/01qian/index.md) | [综卦](/10wings/xuguazhuan/02kun/index.md) |
+| [本卦](/10wings/xuguazhuan/01qian/) | [互卦](/10wings/xuguazhuan/01qian/) | [错卦](/10wings/xuguazhuan/01qian/) | [综卦](/10wings/xuguazhuan/02kun/) |
 
 ## 乾卦
 ### 原文
