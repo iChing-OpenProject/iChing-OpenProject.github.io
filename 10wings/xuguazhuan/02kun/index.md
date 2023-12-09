@@ -1,6 +1,6 @@
 # 周易第2卦_坤卦(坤為地)_坤上坤下
 
-| ![kun](/resources/64gua_kun.png) | ![kun](/resources/64gua_kun.png) | ![kun](/resources/64gua_kun.png) | ![kun](/resources/64gua_kun.png)    |
+| ![kun](/resources/64gua_kun.png) | ![kun](/resources/64gua_kun.png) | ![kun](/resources/64gua_kun.png) | ![kun](/resources/64gua_qian.png)    |
 |:------:|:------:|:------:|:------:|
 | [本卦](/10wings/xuguazhuan/02kun/) | [互卦](/10wings/xuguazhuan/02kun) | [错卦](/10wings/xuguazhuan/02kun/) | [综卦](/10wings/xuguazhuan/01qian/) |
 
