@@ -1,4 +1,4 @@
-# 周易第2卦_坤卦(坤為地)_坤上坤下
+# 第2卦_坤卦(坤為地)_坤上坤下
 
 | ![kun](/resources/64gua_kun.png) | ![kun](/resources/64gua_kun.png) | ![kun](/resources/64gua_kun.png) | ![kun](/resources/64gua_qian.png)    |
 |:------:|:------:|:------:|:------:|

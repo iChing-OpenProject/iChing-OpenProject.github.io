@@ -1,4 +1,4 @@
-# 周易第1卦_乾卦(乾為天)_乾上乾下
+# 第1卦_乾卦(乾為天)_乾上乾下
 
 | ![qian](/resources/64gua_qian.png) | ![qian](/resources/64gua_qian.png) | ![qian](/resources/64gua_qian.png) | ![kun](/resources/64gua_kun.png)    |
 |:------:|:------:|:------:|:------:|
