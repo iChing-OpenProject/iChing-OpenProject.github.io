@@ -1,5 +1,5 @@
 ## 基礎
 
-## [64 掛](/64Hexagram/index.md)
+## [64 掛](/64Hexagram/)
 
 ## 十翼
