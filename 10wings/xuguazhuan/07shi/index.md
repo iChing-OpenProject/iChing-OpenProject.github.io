@@ -1,6 +1,6 @@
 # 第7卦_師卦(地水師)_坤上坎下
 
-| ![song](/resources/64gua_shi.png) | ![jiaren](/resources/64gua_fu.png) | ![mingyi](/resources/64gua_tongren.png) | ![xu](/resources/64gua_bi.png)    |
+| ![shi](/resources/64gua_shi.png) | ![fu](/resources/64gua_fu.png) | ![tongren](/resources/64gua_tongren.png) | ![bi](/resources/64gua_bi.png)    |
 |:------:|:------:|:------:|:------:|
 | [本卦](/10wings/xuguazhuan/07shi/) | [互卦](/10wings/xuguazhuan/24fu/) | [错卦](/10wings/xuguazhuan/13tongren/) | [综卦](/10wings/xuguazhuan/08bi/) |
 
